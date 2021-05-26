@@ -1,0 +1,12 @@
+2021-05-22 18:07:37.975 --- [BinanceTickerService]:币安获取Ticker数据失败
+
+2021-05-22 18:07:38.297 --- [BinanceTickerService]:币安获取Ticker数据失败
+
+2021-05-22 18:07:38.451 --- [BinanceTickerService]:币安获取Ticker数据失败
+
+2021-05-22 18:07:38.609 --- [BinanceTickerService]:币安获取Ticker数据失败
+
+2021-05-22 18:07:38.768 --- [BinanceTickerService]:币安获取Ticker数据失败
+
+2021-05-22 18:07:38.950 --- [BinanceTickerService]:币安获取Ticker数据失败
+
